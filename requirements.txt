@@ -1,0 +1,7 @@
+numpy==2.0.2
+scikit-learn
+joblib
+mediapipe
+opencv-python
+Pillow
+tk
